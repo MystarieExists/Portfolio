@@ -1,0 +1,21 @@
+title: Mahdi Chowdhury
+description: Computer Scientist
+site_title: 'Mahdi Chowdhury'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: MystarieExists
+blog_url: 
+email: 
+keybase_username: 
+twitter_username:
+reddit_username: 
+
+# absolute or relative
+profile_picture: 
+
+# Google Analytics ID
+google_analytics: 
